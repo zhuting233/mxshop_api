@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="AliSmsConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CheckResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/proto/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ConsulConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateUserInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/proto/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CustomClaims">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/models/request.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="IdRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/proto/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="JWT">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/middlewares/jwt.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="JWTConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="MobileRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/proto/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PageInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/proto/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PassWordLoginForm">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/forms/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="PasswordCheckInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/proto/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RedisConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RegisterForm">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/forms/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SendSmsForm">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/forms/sms.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ServerConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UnimplementedUserServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/proto/user_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UpdateUserInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/proto/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UserInfoResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/proto/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UserListResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/proto/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UserResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/global/response/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UserServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../mxshop_srvs/usr_srv/handler/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UserSrvConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="userClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/proto/user_grpc.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="x">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/proto/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/../HelloWorld/consul/grpclb/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715775379692" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/api/chaptcha.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715176411601" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/api/sms.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715428399211" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/api/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715690534803" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715687033878" />
+              <option name="schema">
+                <list>
+                  <option value="UserSrvConfig" />
+                  <option value="JWTConfig" />
+                  <option value="AliSmsConfig" />
+                  <option value="ConsulConfig" />
+                  <option value="RedisConfig" />
+                  <option value="ServerConfig" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/forms/sms.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715419832195" />
+              <option name="schema">
+                <list>
+                  <option value="SendSmsForm" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/forms/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715428200068" />
+              <option name="schema">
+                <list>
+                  <option value="PassWordLoginForm" />
+                  <option value="RegisterForm" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/global/global.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715690209406" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/global/response/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1714292400664" />
+              <option name="schema">
+                <list>
+                  <option value="UserResponse" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/initialize/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715762838667" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/initialize/logger.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1714239036304" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/initialize/router.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715672341180" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/initialize/srv_conn.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715778000739" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/initialize/validator.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715019750503" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715690528713" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/middlewares/admin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715168067430" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/middlewares/cors.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715171760035" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/middlewares/jwt.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715159229361" />
+              <option name="schema">
+                <list>
+                  <option value="JWT" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/models/request.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715158072791" />
+              <option name="schema">
+                <list>
+                  <option value="CustomClaims" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/proto/user.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1714269849629" />
+              <option name="schema">
+                <list>
+                  <option value="PasswordCheckInfo" />
+                  <option value="CheckResponse" />
+                  <option value="PageInfo" />
+                  <option value="MobileRequest" />
+                  <option value="IdRequest" />
+                  <option value="CreateUserInfo" />
+                  <option value="UpdateUserInfo" />
+                  <option value="UserInfoResponse" />
+                  <option value="UserListResponse" />
+                  <option value="x" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/proto/user_grpc.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1714269849629" />
+              <option name="schema">
+                <list>
+                  <option value="userClient" />
+                  <option value="UnimplementedUserServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/router/base.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715419754206" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/router/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715690617022" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/utils/addr.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715762195572" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/user-web/validator/validators.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715093591694" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../mxshop_srvs/usr_srv/handler/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715776205612" />
+              <option name="schema">
+                <list>
+                  <option value="UserServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../mxshop_srvs/usr_srv/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715776532922" />
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="ali_sms_config" value="AliSmsConfig" />
+        <entry key="check_response" value="CheckResponse" />
+        <entry key="consul_config" value="ConsulConfig" />
+        <entry key="create_user_info" value="CreateUserInfo" />
+        <entry key="custom_claims" value="CustomClaims" />
+        <entry key="id_request" value="IdRequest" />
+        <entry key="jwt" value="JWT" />
+        <entry key="jwt_config" value="JWTConfig" />
+        <entry key="mobile_request" value="MobileRequest" />
+        <entry key="page_info" value="PageInfo" />
+        <entry key="pass_word_login_form" value="PassWordLoginForm" />
+        <entry key="password_check_info" value="PasswordCheckInfo" />
+        <entry key="redis_config" value="RedisConfig" />
+        <entry key="register_form" value="RegisterForm" />
+        <entry key="send_sms_form" value="SendSmsForm" />
+        <entry key="server_config" value="ServerConfig" />
+        <entry key="unimplemented_user_server" value="UnimplementedUserServer" />
+        <entry key="update_user_info" value="UpdateUserInfo" />
+        <entry key="user_client" value="userClient" />
+        <entry key="user_info_response" value="UserInfoResponse" />
+        <entry key="user_list_response" value="UserListResponse" />
+        <entry key="user_response" value="UserResponse" />
+        <entry key="user_server" value="UserServer" />
+        <entry key="user_srv_config" value="UserSrvConfig" />
+        <entry key="x" value="x" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1715739906152" />
+  </component>
+</project>
