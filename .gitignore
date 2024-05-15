@@ -1,2 +1,3 @@
 user-web/*.yaml
 user-web/api/test/sms_test.go
+tmp
