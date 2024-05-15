@@ -6,6 +6,7 @@
         <entry key="AliSmsConfig">
           <value>
             <set>
+              <option value="file://$PROJECT_DIR$/../HelloWorld/nacos/config/UserSrvConfig.go" />
               <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
             </set>
           </value>
@@ -20,6 +21,7 @@
         <entry key="ConsulConfig">
           <value>
             <set>
+              <option value="file://$PROJECT_DIR$/../HelloWorld/nacos/config/UserSrvConfig.go" />
               <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
             </set>
           </value>
@@ -55,6 +57,7 @@
         <entry key="JWTConfig">
           <value>
             <set>
+              <option value="file://$PROJECT_DIR$/../HelloWorld/nacos/config/UserSrvConfig.go" />
               <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
             </set>
           </value>
@@ -63,6 +66,13 @@
           <value>
             <set>
               <option value="file://$PROJECT_DIR$/user-web/proto/user.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="NacosConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
             </set>
           </value>
         </entry>
@@ -90,6 +100,7 @@
         <entry key="RedisConfig">
           <value>
             <set>
+              <option value="file://$PROJECT_DIR$/../HelloWorld/nacos/config/UserSrvConfig.go" />
               <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
             </set>
           </value>
@@ -111,6 +122,7 @@
         <entry key="ServerConfig">
           <value>
             <set>
+              <option value="file://$PROJECT_DIR$/../HelloWorld/nacos/config/UserSrvConfig.go" />
               <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
             </set>
           </value>
@@ -160,6 +172,7 @@
         <entry key="UserSrvConfig">
           <value>
             <set>
+              <option value="file://$PROJECT_DIR$/../HelloWorld/nacos/config/UserSrvConfig.go" />
               <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
             </set>
           </value>
@@ -189,6 +202,30 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/../HelloWorld/nacos/config/UserSrvConfig.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715789322275" />
+              <option name="schema">
+                <list>
+                  <option value="UserSrvConfig" />
+                  <option value="JWTConfig" />
+                  <option value="AliSmsConfig" />
+                  <option value="ConsulConfig" />
+                  <option value="RedisConfig" />
+                  <option value="ServerConfig" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../HelloWorld/nacos/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715789223130" />
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/user-web/api/chaptcha.go">
           <value>
             <ScannedPath>
@@ -213,7 +250,7 @@
         <entry key="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1715687033878" />
+              <option name="lastModified" value="1715790032937" />
               <option name="schema">
                 <list>
                   <option value="UserSrvConfig" />
@@ -222,6 +259,7 @@
                   <option value="ConsulConfig" />
                   <option value="RedisConfig" />
                   <option value="ServerConfig" />
+                  <option value="NacosConfig" />
                 </list>
               </option>
             </ScannedPath>
@@ -255,7 +293,7 @@
         <entry key="file://$PROJECT_DIR$/user-web/global/global.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1715690209406" />
+              <option name="lastModified" value="1715790087972" />
             </ScannedPath>
           </value>
         </entry>
@@ -274,7 +312,7 @@
         <entry key="file://$PROJECT_DIR$/user-web/initialize/config.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1715762838667" />
+              <option name="lastModified" value="1715790915846" />
             </ScannedPath>
           </value>
         </entry>
@@ -295,7 +333,7 @@
         <entry key="file://$PROJECT_DIR$/user-web/initialize/srv_conn.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1715778000739" />
+              <option name="lastModified" value="1715791461240" />
             </ScannedPath>
           </value>
         </entry>
@@ -445,6 +483,7 @@
         <entry key="jwt" value="JWT" />
         <entry key="jwt_config" value="JWTConfig" />
         <entry key="mobile_request" value="MobileRequest" />
+        <entry key="nacos_config" value="NacosConfig" />
         <entry key="page_info" value="PageInfo" />
         <entry key="pass_word_login_form" value="PassWordLoginForm" />
         <entry key="password_check_info" value="PasswordCheckInfo" />

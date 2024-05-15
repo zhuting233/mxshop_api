@@ -9,6 +9,7 @@ import (
 )
 
 var (
+	NacosConfig   *config.NacosConfig
 	ServerConfig  *config.ServerConfig
 	Trans         ut.Translator
 	UserSrvClient proto.UserClient
