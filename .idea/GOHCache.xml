@@ -6,8 +6,140 @@
         <entry key="AliSmsConfig">
           <value>
             <set>
-              <option value="file://$PROJECT_DIR$/../HelloWorld/nacos/config/UserSrvConfig.go" />
               <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BannerListResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BannerRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BannerResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BatchCategoryInfoRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BatchGoodsIdInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BrandFilterRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BrandInfoResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BrandListResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BrandRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CategoryBrandFilterRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CategoryBrandListResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CategoryBrandRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CategoryBrandResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CategoryBriefInfoResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CategoryFilterRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CategoryInfoRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CategoryInfoResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CategoryListRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CategoryListResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
             </set>
           </value>
         </entry>
@@ -21,8 +153,15 @@
         <entry key="ConsulConfig">
           <value>
             <set>
-              <option value="file://$PROJECT_DIR$/../HelloWorld/nacos/config/UserSrvConfig.go" />
+              <option value="file://$PROJECT_DIR$/goods-web/config/config.go" />
               <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="CreateGoodsInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
             </set>
           </value>
         </entry>
@@ -36,7 +175,71 @@
         <entry key="CustomClaims">
           <value>
             <set>
+              <option value="file://$PROJECT_DIR$/goods-web/models/request.go" />
               <option value="file://$PROJECT_DIR$/user-web/models/request.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DeleteCategoryRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DeleteGoodsInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FilterRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GoodInfoRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GoodsFilterRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GoodsInfoResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GoodsListResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GoodsReduceRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="GoodsSrvConfig">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/config/config.go" />
             </set>
           </value>
         </entry>
@@ -50,6 +253,7 @@
         <entry key="JWT">
           <value>
             <set>
+              <option value="file://$PROJECT_DIR$/goods-web/middlewares/jwt.go" />
               <option value="file://$PROJECT_DIR$/user-web/middlewares/jwt.go" />
             </set>
           </value>
@@ -57,7 +261,7 @@
         <entry key="JWTConfig">
           <value>
             <set>
-              <option value="file://$PROJECT_DIR$/../HelloWorld/nacos/config/UserSrvConfig.go" />
+              <option value="file://$PROJECT_DIR$/goods-web/config/config.go" />
               <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
             </set>
           </value>
@@ -72,6 +276,7 @@
         <entry key="NacosConfig">
           <value>
             <set>
+              <option value="file://$PROJECT_DIR$/goods-web/config/config.go" />
               <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
             </set>
           </value>
@@ -97,10 +302,16 @@
             </set>
           </value>
         </entry>
+        <entry key="QueryCategoryRequest">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
         <entry key="RedisConfig">
           <value>
             <set>
-              <option value="file://$PROJECT_DIR$/../HelloWorld/nacos/config/UserSrvConfig.go" />
               <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
             </set>
           </value>
@@ -109,6 +320,14 @@
           <value>
             <set>
               <option value="file://$PROJECT_DIR$/user-web/forms/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Registry">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/utils/register/consul/register.go" />
+              <option value="file://$PROJECT_DIR$/user-web/utils/register/consul/register.go" />
             </set>
           </value>
         </entry>
@@ -122,8 +341,22 @@
         <entry key="ServerConfig">
           <value>
             <set>
-              <option value="file://$PROJECT_DIR$/../HelloWorld/nacos/config/UserSrvConfig.go" />
+              <option value="file://$PROJECT_DIR$/goods-web/config/config.go" />
               <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SubCategoryListResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UnimplementedGoodsServer">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods_grpc.pb.go" />
             </set>
           </value>
         </entry>
@@ -162,18 +395,17 @@
             </set>
           </value>
         </entry>
-        <entry key="UserServer">
-          <value>
-            <set>
-              <option value="file://$PROJECT_DIR$/../mxshop_srvs/usr_srv/handler/user.go" />
-            </set>
-          </value>
-        </entry>
         <entry key="UserSrvConfig">
           <value>
             <set>
-              <option value="file://$PROJECT_DIR$/../HelloWorld/nacos/config/UserSrvConfig.go" />
               <option value="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="goodsClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods_grpc.pb.go" />
             </set>
           </value>
         </entry>
@@ -187,6 +419,7 @@
         <entry key="x">
           <value>
             <set>
+              <option value="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go" />
               <option value="file://$PROJECT_DIR$/user-web/proto/user.pb.go" />
             </set>
           </value>
@@ -195,34 +428,201 @@
     </option>
     <option name="scannedPathMapping">
       <map>
-        <entry key="file://$PROJECT_DIR$/../HelloWorld/consul/grpclb/main.go">
+        <entry key="file://$PROJECT_DIR$/goods-web/api/goods/goods.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1715775379692" />
+              <option name="lastModified" value="1717318523970" />
             </ScannedPath>
           </value>
         </entry>
-        <entry key="file://$PROJECT_DIR$/../HelloWorld/nacos/config/UserSrvConfig.go">
+        <entry key="file://$PROJECT_DIR$/goods-web/config/config.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1715789322275" />
+              <option name="lastModified" value="1717330949037" />
               <option name="schema">
                 <list>
-                  <option value="UserSrvConfig" />
+                  <option value="GoodsSrvConfig" />
                   <option value="JWTConfig" />
-                  <option value="AliSmsConfig" />
                   <option value="ConsulConfig" />
-                  <option value="RedisConfig" />
                   <option value="ServerConfig" />
+                  <option value="NacosConfig" />
                 </list>
               </option>
             </ScannedPath>
           </value>
         </entry>
-        <entry key="file://$PROJECT_DIR$/../HelloWorld/nacos/main.go">
+        <entry key="file://$PROJECT_DIR$/goods-web/forms/goods.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1715789223130" />
+              <option name="lastModified" value="1717295381705" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/goods-web/global/global.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1717295637003" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/goods-web/initialize/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1717294992674" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/goods-web/initialize/logger.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1716043951217" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/goods-web/initialize/router.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1717315549808" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/goods-web/initialize/srv_conn.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1717298889058" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/goods-web/initialize/validator.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1717294992602" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/goods-web/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1717333159112" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/goods-web/middlewares/admin.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1717294992601" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/goods-web/middlewares/cors.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715171760035" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/goods-web/middlewares/jwt.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1717294992577" />
+              <option name="schema">
+                <list>
+                  <option value="JWT" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/goods-web/models/request.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715158072791" />
+              <option name="schema">
+                <list>
+                  <option value="CustomClaims" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/goods-web/proto/goods.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1716115069519" />
+              <option name="schema">
+                <list>
+                  <option value="CategoryListRequest" />
+                  <option value="CategoryInfoRequest" />
+                  <option value="DeleteCategoryRequest" />
+                  <option value="QueryCategoryRequest" />
+                  <option value="CategoryInfoResponse" />
+                  <option value="CategoryListResponse" />
+                  <option value="SubCategoryListResponse" />
+                  <option value="CategoryBrandFilterRequest" />
+                  <option value="FilterRequest" />
+                  <option value="CategoryBrandRequest" />
+                  <option value="CategoryBrandResponse" />
+                  <option value="BannerRequest" />
+                  <option value="BannerResponse" />
+                  <option value="BrandFilterRequest" />
+                  <option value="BrandRequest" />
+                  <option value="BrandInfoResponse" />
+                  <option value="BrandListResponse" />
+                  <option value="BannerListResponse" />
+                  <option value="CategoryBrandListResponse" />
+                  <option value="BatchGoodsIdInfo" />
+                  <option value="DeleteGoodsInfo" />
+                  <option value="CategoryBriefInfoResponse" />
+                  <option value="CategoryFilterRequest" />
+                  <option value="GoodInfoRequest" />
+                  <option value="CreateGoodsInfo" />
+                  <option value="GoodsReduceRequest" />
+                  <option value="BatchCategoryInfoRequest" />
+                  <option value="GoodsFilterRequest" />
+                  <option value="GoodsInfoResponse" />
+                  <option value="GoodsListResponse" />
+                  <option value="x" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/goods-web/proto/goods_grpc.pb.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1716115069519" />
+              <option name="schema">
+                <list>
+                  <option value="goodsClient" />
+                  <option value="UnimplementedGoodsServer" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/goods-web/router/goods.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1717316589827" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/goods-web/utils/addr.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1715762195572" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/goods-web/utils/register/consul/register.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1717332476738" />
+              <option name="schema">
+                <list>
+                  <option value="Registry" />
+                </list>
+              </option>
             </ScannedPath>
           </value>
         </entry>
@@ -250,7 +650,7 @@
         <entry key="file://$PROJECT_DIR$/user-web/config/UserSrvConfig.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1715790032937" />
+              <option name="lastModified" value="1717333879812" />
               <option name="schema">
                 <list>
                   <option value="UserSrvConfig" />
@@ -293,7 +693,7 @@
         <entry key="file://$PROJECT_DIR$/user-web/global/global.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1715790087972" />
+              <option name="lastModified" value="1715791772278" />
             </ScannedPath>
           </value>
         </entry>
@@ -312,14 +712,14 @@
         <entry key="file://$PROJECT_DIR$/user-web/initialize/config.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1715790915846" />
+              <option name="lastModified" value="1715791772278" />
             </ScannedPath>
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/user-web/initialize/logger.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1714239036304" />
+              <option name="lastModified" value="1716043951217" />
             </ScannedPath>
           </value>
         </entry>
@@ -333,7 +733,7 @@
         <entry key="file://$PROJECT_DIR$/user-web/initialize/srv_conn.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1715791461240" />
+              <option name="lastModified" value="1715791772279" />
             </ScannedPath>
           </value>
         </entry>
@@ -347,7 +747,7 @@
         <entry key="file://$PROJECT_DIR$/user-web/main.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1715690528713" />
+              <option name="lastModified" value="1717334299839" />
             </ScannedPath>
           </value>
         </entry>
@@ -392,7 +792,7 @@
         <entry key="file://$PROJECT_DIR$/user-web/proto/user.pb.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1714269849629" />
+              <option name="lastModified" value="1715857580483" />
               <option name="schema">
                 <list>
                   <option value="PasswordCheckInfo" />
@@ -413,7 +813,7 @@
         <entry key="file://$PROJECT_DIR$/user-web/proto/user_grpc.pb.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1714269849629" />
+              <option name="lastModified" value="1715857580483" />
               <option name="schema">
                 <list>
                   <option value="userClient" />
@@ -444,29 +844,22 @@
             </ScannedPath>
           </value>
         </entry>
-        <entry key="file://$PROJECT_DIR$/user-web/validator/validators.go">
+        <entry key="file://$PROJECT_DIR$/user-web/utils/register/consul/register.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1715093591694" />
-            </ScannedPath>
-          </value>
-        </entry>
-        <entry key="file://$PROJECT_DIR$/../mxshop_srvs/usr_srv/handler/user.go">
-          <value>
-            <ScannedPath>
-              <option name="lastModified" value="1715776205612" />
+              <option name="lastModified" value="1717332476738" />
               <option name="schema">
                 <list>
-                  <option value="UserServer" />
+                  <option value="Registry" />
                 </list>
               </option>
             </ScannedPath>
           </value>
         </entry>
-        <entry key="file://$PROJECT_DIR$/../mxshop_srvs/usr_srv/main.go">
+        <entry key="file://$PROJECT_DIR$/user-web/validator/validators.go">
           <value>
             <ScannedPath>
-              <option name="lastModified" value="1715776532922" />
+              <option name="lastModified" value="1715093591694" />
             </ScannedPath>
           </value>
         </entry>
@@ -475,10 +868,40 @@
     <option name="tableStructMapping">
       <map>
         <entry key="ali_sms_config" value="AliSmsConfig" />
+        <entry key="banner_list_response" value="BannerListResponse" />
+        <entry key="banner_request" value="BannerRequest" />
+        <entry key="banner_response" value="BannerResponse" />
+        <entry key="batch_category_info_request" value="BatchCategoryInfoRequest" />
+        <entry key="batch_goods_id_info" value="BatchGoodsIdInfo" />
+        <entry key="brand_filter_request" value="BrandFilterRequest" />
+        <entry key="brand_info_response" value="BrandInfoResponse" />
+        <entry key="brand_list_response" value="BrandListResponse" />
+        <entry key="brand_request" value="BrandRequest" />
+        <entry key="category_brand_filter_request" value="CategoryBrandFilterRequest" />
+        <entry key="category_brand_list_response" value="CategoryBrandListResponse" />
+        <entry key="category_brand_request" value="CategoryBrandRequest" />
+        <entry key="category_brand_response" value="CategoryBrandResponse" />
+        <entry key="category_brief_info_response" value="CategoryBriefInfoResponse" />
+        <entry key="category_filter_request" value="CategoryFilterRequest" />
+        <entry key="category_info_request" value="CategoryInfoRequest" />
+        <entry key="category_info_response" value="CategoryInfoResponse" />
+        <entry key="category_list_request" value="CategoryListRequest" />
+        <entry key="category_list_response" value="CategoryListResponse" />
         <entry key="check_response" value="CheckResponse" />
         <entry key="consul_config" value="ConsulConfig" />
+        <entry key="create_goods_info" value="CreateGoodsInfo" />
         <entry key="create_user_info" value="CreateUserInfo" />
         <entry key="custom_claims" value="CustomClaims" />
+        <entry key="delete_category_request" value="DeleteCategoryRequest" />
+        <entry key="delete_goods_info" value="DeleteGoodsInfo" />
+        <entry key="filter_request" value="FilterRequest" />
+        <entry key="good_info_request" value="GoodInfoRequest" />
+        <entry key="goods_client" value="goodsClient" />
+        <entry key="goods_filter_request" value="GoodsFilterRequest" />
+        <entry key="goods_info_response" value="GoodsInfoResponse" />
+        <entry key="goods_list_response" value="GoodsListResponse" />
+        <entry key="goods_reduce_request" value="GoodsReduceRequest" />
+        <entry key="goods_srv_config" value="GoodsSrvConfig" />
         <entry key="id_request" value="IdRequest" />
         <entry key="jwt" value="JWT" />
         <entry key="jwt_config" value="JWTConfig" />
@@ -487,21 +910,24 @@
         <entry key="page_info" value="PageInfo" />
         <entry key="pass_word_login_form" value="PassWordLoginForm" />
         <entry key="password_check_info" value="PasswordCheckInfo" />
+        <entry key="query_category_request" value="QueryCategoryRequest" />
         <entry key="redis_config" value="RedisConfig" />
         <entry key="register_form" value="RegisterForm" />
+        <entry key="registry" value="Registry" />
         <entry key="send_sms_form" value="SendSmsForm" />
         <entry key="server_config" value="ServerConfig" />
+        <entry key="sub_category_list_response" value="SubCategoryListResponse" />
+        <entry key="unimplemented_goods_server" value="UnimplementedGoodsServer" />
         <entry key="unimplemented_user_server" value="UnimplementedUserServer" />
         <entry key="update_user_info" value="UpdateUserInfo" />
         <entry key="user_client" value="userClient" />
         <entry key="user_info_response" value="UserInfoResponse" />
         <entry key="user_list_response" value="UserListResponse" />
         <entry key="user_response" value="UserResponse" />
-        <entry key="user_server" value="UserServer" />
         <entry key="user_srv_config" value="UserSrvConfig" />
         <entry key="x" value="x" />
       </map>
     </option>
-    <option name="lastTimeChecked" value="1715739906152" />
+    <option name="lastTimeChecked" value="1717380837634" />
   </component>
 </project>
